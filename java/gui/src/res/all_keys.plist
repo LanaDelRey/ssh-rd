@@ -94,6 +94,33 @@
 		<key>restoredmg</key>
 		<string>038-5512-003</string>
 	</dict>
+	<key>n90bap</key>
+        <dict>  
+                <key>device</key>
+		<string>iphone32</string>
+		<key>restoreiv</key>
+		<string>6b429e13ff6c75b87b1573733048603e</string>
+		<key>iBSSKey</key>
+		<string>16794482beb76d83004e7acabffabcaa80ce7b64cba4ef3c5b2e7fe7cd980403</string>
+		<key>downloadurl</key>
+		<string>http://appldnld.apple.com/iOS7/031-0884.20131022.54554/iPhone3,2_7.0.3_11B511_Restore.ipsw</string>
+		<key>restorekey</key>
+		<string>d1620262e47319a06a660adf97b8cfd25b4a5057fecec48f02fdc9521df84905</string>
+		<key>iBECKey</key>
+		<string>dc84d99894073485b40a3263397e54d04344ea75b117a18f4b04068b4da933db</string>
+		<key>iBSSIV</key>
+		<string>e30934c968036d80caf6adc6193f8d78</string>
+		<key>KernelcacheIV</key>
+		<string>56c68f2c0d10a514d72ed0f49179d577</string>
+		<key>build</key>
+		<string>11B511</string>
+		<key>iBECIV</key>
+		<string>3cd3f1f5b509e6bc061863e1c9fad180</string>
+		<key>KernelcacheKey</key>
+		<string>0e14129ef844768b6e4ad82490873751a9e22eab7fdd2a473e2750e128abab2f</string>
+		<key>restoredmg</key>
+		<string>058-0226-001</string>
+	</dict>
 	<key>n92ap</key>
 	<dict>
 		<key>device</key>
